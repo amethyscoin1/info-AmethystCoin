@@ -1,5 +1,3 @@
-# info-AmethystCoin
-Soucer Code Smart Contract AmethystCoin-Token
 pragma solidity ^0.4.18;
 
 /**
